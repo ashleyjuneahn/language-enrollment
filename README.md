@@ -1,6 +1,6 @@
 # Analysis of Modern Language Association dataset
 
-Click [here](https://www.npr.org/2022/10/19/1129380984/korean-language-classes-us-colleges-k-pop-parasite-squid-game) to read the NPR article titled "Enrollment in Korean classes has shot up. Thank K-pop"
+Click [here](https://www.npr.org/2022/10/19/1129380984/korean-language-classes-us-colleges-k-pop-parasite-squid-game) to read my NPR piece, "Enrollment in Korean classes has shot up. Thank K-pop"
 
 ## Project Abstract
 
