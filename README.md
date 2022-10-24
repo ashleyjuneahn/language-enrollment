@@ -1,5 +1,7 @@
 # Analysis of Modern Language Association dataset
 
+Click [here](https://www.npr.org/2022/10/19/1129380984/korean-language-classes-us-colleges-k-pop-parasite-squid-game) to read the NPR article titled "Enrollment in Korean classes has shot up. Thank K-pop"
+
 ## Project Abstract
 
 Two years ago, Parasite became the first film in a foreign language to win best picture at the Oscars. Squid Game then became Netflix's most-watched show of all time, winning a historic six Emmys in September. With the increasing prevelance of Korean popular culture, I was interested to see if college student enrollment in Korean language classes had increased in the past decade. Using [Modern Language Association's dataset](https://apps.mla.org/flsurvey_search) on language enrollments in United States institutions of higher education from 1958 to 2016, I used the Google Colab environment in Python to analyze the dataset.
