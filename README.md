@@ -8,7 +8,7 @@ Enrollment in Korean language classes has risen 78% from 2009 to 2016, reaching 
 
 Ten years ago, Psy's "Gangnam Style" became the most viewed video on YouTube of its time, marking K-pop's first splash on the global music stage. In 2018, BTS became the first K-pop act to hit No.1 on the Billboard 200 albums chart, and BLACKPINK became the first K-pop girl group to perform at Coachella a year later.
 
-Contrary to the strict upward trend of Korean language enrollment, the dataset shows the first decrease in enrollment for Japanese language in the 21st century from 2009 to 2013. Chinese langauge enrollment also witnessed its first drop since 2000 from 2013 to 2016. Victor Cha, who is also the Senior Vice President for Asia and Korea Chair at the Center for Strategic and International Studies, told NPR the drop in Chinese language enrollment has likely to do with harshening relations between the U.S. and China. 
+Contrary to the strict upward trend of Korean language enrollment, the dataset shows the first decrease in enrollment for Japanese language in the 21st century from 2009 to 2013. Chinese langauge enrollment also witnessed its first drop since 2000 from 2013 to 2016. Victor Cha, who is the Senior Vice President for Asia and Korea Chair at the Center for Strategic and International Studies, told NPR the drop in Chinese language enrollment has likely to do with harshening relations between the U.S. and China. 
 
 ## Conclusion
 
