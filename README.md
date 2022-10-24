@@ -2,7 +2,7 @@
 
 ## Project Abstract
 
-Two years ago, Parasite became the first film in a foreign language to win best picture at the Oscars. Squid Game then became Netflix's most-watched show of all time, winning a historic six Emmys in September. With the increasing prevelance of Korean popular culture, I was curious to see if college student enrollment in Korean language classes had increased in the past decade. Using [Modern Language Association's dataset](https://apps.mla.org/flsurvey_search) on language enrollments in United States institutions of higher education from 1958 to 2016, I used the Google Colab environment in Python to analyze the dataset.
+Two years ago, Parasite became the first film in a foreign language to win best picture at the Oscars. Squid Game then became Netflix's most-watched show of all time, winning a historic six Emmys in September. With the increasing prevelance of Korean popular culture, I was interested to see if college student enrollment in Korean language classes had increased in the past decade. Using [Modern Language Association's dataset](https://apps.mla.org/flsurvey_search) on language enrollments in United States institutions of higher education from 1958 to 2016, I used the Google Colab environment in Python to analyze the dataset.
 
 Enrollment in Korean language classes has risen 78% from 2009 to 2016, reaching 15,000, while total enrollment in language classes has plateaued in recent years. The only other widely learned language with significant growth in the span was American Sign Language, which increased enrollments by 37%. The percent of students learning a language who are enrolled in Korean also jumped from 0.5% to 0.9% from 2009 to 2016. Experts attribute the rise in Korean language enrollment to K-pop.
 
